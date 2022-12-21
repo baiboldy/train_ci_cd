@@ -14,4 +14,4 @@ jobs:
         run: |
           echo "Hello World!"
       - name: Say date
-        run: echo date
+        run: echo ${date}
